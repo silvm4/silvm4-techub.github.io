@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+  <head>
+  	<title>Introduction to Coding</title>
+    <link rel="stylesheet" href="./main.css"></link>
+</head>
+<body>
+  <h1 class="home-color">
+    Welcome to my Homepage
+  </h1>
+  <h2>
+    This is Silvia's House
+  </h2>
+
+  <ul>
+    <li class="home-color"> start the coding workshop</li>
+    <li> add list items</li>
+  </ul>
+<a target="_blank"
+ href="http://www.foundersandcoders.com"> Founders and Coders</a>
+<a href="/contact-us"> Contact</a>
+<p>
+</p>
+
+<img src="http://www.clickerzoneuk.co.uk/cz/wp-content/uploads/2010/10/PuppySmall.jpg" >
+
+</body>
